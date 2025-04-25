@@ -1,1 +1,7 @@
+[1] P. Kumar, A. Singh, and S. Saha, “Navigating the Indian Code-Mixed Terrain: Multitasking Analysis of Complaints, Sentiment, Emotion, and Severity,” 2024, doi: https://doi.org/10.2139/ssrn.4827145.
+[2] Farhad Nadi et al., “Sentiment Analysis Using Large Language Models: A Case Study of GPT-3.5,” Lecture notes on data engineering and communications technologies, pp. 161–168, Jan. 2024, doi: https://doi.org/10.1007/978-981-97-0293-0_12.
+[3] T. D. Nguyen, D. M. Nguyen, H. M. Nguyen, and T. Quynh, “Topic classification of vietnamese product reviews in e-commerce using PhoBERT,” Journal of Marketing Analytics, Apr. 2025, doi: https://doi.org/10.1057/s41270-025-00402-w.
+[4] S. Shan, J. Sun, and R. M. C. Macawile, “Examining Customer Satisfaction through Transformer-Based Sentiment Analysis for Improving Bilingual E-Commerce Experiences,” IEEE Access, pp. 1–1, 2025, doi: https://doi.org/10.1109/access.2025.3551666.
+[5] T. U. Haque, N. N. Saber, and F. M. Shah, “Sentiment analysis on large scale Amazon product reviews,” 2018 IEEE International Conference on Innovative Research and Development (ICIRD), May 2018, doi: https://doi.org/10.1109/icird.2018.8376299.
+[6] F. M. Plaza-Del-Arco, C. Strapparava, A. Urena, and M. Teresa Martín-Valdivia, “EmoEvent: A Multilingual Emotion Corpus based on different Events,” ACL Anthology, pp. 1492–1498, May 2020, Accessed: Apr. 25, 2025. [Online]. Available: https://aclanthology.org/2020.lrec-1.186/
 
