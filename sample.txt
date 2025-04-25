@@ -1,15 +1,1 @@
-2.1. Description of the Dataset
-We collected the dataset from the google playstore app review of the Samsung internet for our purpose. Currently Samsung Internet Browser has more than 5M user reviews. Three external datasets were collected to judge the performance of the models in further, these are the emotion classification dataset, sentiment dataset and toxicity detection from customer review which helped us to evaluate the model. 
-Few negative user reviews is shown in table1. 
-2.2. Preprocessing Steps
-We removed the punctuation, numbers, emoji, different htm tags etc. from the text and then doing stemming to reduce frequent word and then did lemmatizing.
-2.3. Prompt Engineering
-For prompt Engineering we tried with multiple prompts like a trial and error approach to enhance the performance or the accuracy of the model. Few of them are shown as below:
-2.4. Deployed LLM Models 
-We deployed various open source LLM models like LLAMA2-13B, GPT-3.5, DeepSeek-14B, Claude 3.5 Sonnet and Claude 3.5 Haiku for the existing dataset. 
-2.5. Topic Modeling Using BERTopic
-BERTopic is a topic modeling technique that leverages transformers and c-TF-IDF to create dense clusters. We initially let the topic modeling to decide different topics and then utilized those topics from the review classification. 
-2.6. Assigning Manual Labels 
-However, the BERTopic is not 100% accurate and it can also fail, so focusing on that in mind we manually provide few labels in the model so that the model can easily classify these.
-3. Results and Analysis
-After feeding the 10k comments we got the following results from the model, the statistics are provided below as per the model classification report. 
+
